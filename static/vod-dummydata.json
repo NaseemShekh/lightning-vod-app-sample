@@ -1,0 +1,565 @@
+[
+  {"id":1,
+    "label":"Recommended",
+    "data": [
+      {
+        "title":"Black Panther",
+        "path":"images/recommended/blackpanther.jpg",
+        "id":1,
+        "cat":1,
+        "locator":"https://bitmovin-a.akamaihd.net/content/playhouse-vr/m3u8s/105560.m3u8"
+      },
+      {
+        "title":"The Witches East Wick",
+        "path":"images/recommended/thewitches.jpg",
+        "id":2,
+        "cat":1,
+        "locator":"https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8"
+         },
+      {
+        "title":"The Belle Etla Bete",
+        "path":"images/recommended/thebelle.jpg",
+        "id":3,
+        "cat":1,
+        "locator":"https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8"
+        },
+      {
+        "title": "Dunkirk",
+        "path":"images/recommended/dunkirk.jpg",
+        "id":4,
+        "cat":1,
+        "locator":"http://cdnvod.setv.ca/hls/Wish.Upon.2017.UNRATED.BDRip.x264-DRONES.mp4/master.m3u8"
+        },
+      {
+        "title": "I Can Only Imagine",
+        "path":"images/recommended/icanonlyimagine.jpg",
+        "id":5,
+        "cat":1,
+        "locator":"http://cdnvod.setv.ca/hls/Wish.Upon.2017.UNRATED.BDRip.x264-DRONES.mp4/master.m3u8"
+        },
+      {
+        "title":"Slad",
+        "path":"images/recommended/slad.jpg",
+        "id":6,
+        "cat":1,
+        "locator":"http://cdnvod.setv.ca/hls/Wish.Upon.2017.UNRATED.BDRip.x264-DRONES.mp4/master.m3u8"
+        },
+      {
+        "title":"Halloween",
+        "path":"images/recommended/halloween.jpg",
+        "id":7,
+        "cat":1,
+        "locator":"http://cdnvod.setv.ca/hls/Wish.Upon.2017.UNRATED.BDRip.x264-DRONES.mp4/master.m3u8"
+        },
+      {
+        "title":"Deadpool 2",
+        "path":"images/recommended/deadpool2.jpg",
+        "id":8,
+        "cat":1,
+        "locator":"http://cdnvod.setv.ca/hls/Wish.Upon.2017.UNRATED.BDRip.x264-DRONES.mp4/master.m3u8"
+        },
+      {
+        "title":"Death Wish",
+        "path":"images/recommended/deathwish.jpg",
+        "id":9,
+        "cat":1,
+        "locator":"http://cdnvod.setv.ca/hls/Wish.Upon.2017.UNRATED.BDRip.x264-DRONES.mp4/master.m3u8"
+      },
+      {
+        "title":"Red Sparrow",
+        "path":"images/recommended/redsparrow.jpg",
+        "id":10,
+        "cat":1,
+        "locator":"http://cdnvod.setv.ca/hls/Wish.Upon.2017.UNRATED.BDRip.x264-DRONES.mp4/master.m3u8"
+      },
+      {
+        "title":"Pacific Rim",
+        "path":"images/recommended/pacificrim.jpg",
+        "id":11,
+        "cat":1,
+        "locator":"http://cdnvod.setv.ca/hls/Wish.Upon.2017.UNRATED.BDRip.x264-DRONES.mp4/master.m3u8"
+      },
+      {
+        "title": "A Quite Place",
+        "path":"images/recommended/aquiteplace.jpg",
+        "id":12,
+        "cat":1,
+        "locator":"http://cdnvod.setv.ca/hls/Annabelle.2.Creation.2017.720p.BluRay.H264.AAC-RARBG.mp4/master.m3u8"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "label": "Action Movies",
+    "data": [
+      {
+        "title": "12 Strong",
+        "path": "images/action/12strong.jpg",
+        "id": 13,
+        "cat": 2,
+        "locator":"http://cdnvod.setv.ca/hls/Wish.Upon.2017.UNRATED.BDRip.x264-DRONES.mp4/master.m3u8"
+       },
+      {
+        "title":"Civil War",
+        "path": "images/action/civilwar.jpg",
+        "id": 14,
+        "cat": 2,
+        "locator":"http://cdnvod.setv.ca/hls/Wish.Upon.2017.UNRATED.BDRip.x264-DRONES.mp4/master.m3u8"
+       },
+      {
+        "title": "Deadpool 2",
+        "path": "images/action/deadpool2.jpg",
+        "id": 15,
+        "cat": 2,
+        "locator":"http://cdnvod.setv.ca/hls/Wish.Upon.2017.UNRATED.BDRip.x264-DRONES.mp4/master.m3u8"
+      },
+      {
+        "title": "Death Wish",
+        "path": "images/action/deathwish.jpg",
+        "id": 16,
+        "cat": 2,
+        "locator":"http://cdnvod.setv.ca/hls/Wish.Upon.2017.UNRATED.BDRip.x264-DRONES.mp4/master.m3u8"
+      },
+      {
+        "title": "Decision",
+        "path": "images/action/decision.jpg",
+        "id": 17,
+        "cat": 2,
+        "locator":"http://cdnvod.setv.ca/hls/Wish.Upon.2017.UNRATED.BDRip.x264-DRONES.mp4/master.m3u8"
+      },
+      {
+        "title": "Dunkirk",
+        "path": "images/action/dunkirk.jpg",
+        "id": 18,
+        "cat": 2,
+        "locator":"http://cdnvod.setv.ca/hls/Wish.Upon.2017.UNRATED.BDRip.x264-DRONES.mp4/master.m3u8"
+      },
+      {
+        "title": "Halloween",
+        "path": "images/action/halloween.jpg",
+        "id": 19,
+        "cat": 2,
+        "locator":"http://cdnvod.setv.ca/hls/Wish.Upon.2017.UNRATED.BDRip.x264-DRONES.mp4/master.m3u8"
+      },
+      {
+        "title": "Hobbs and Shaw",
+        "path": "images/action/hobbs-and-shaw.jpg",
+        "id": 20,
+        "cat": 2,
+        "locator":"http://cdnvod.setv.ca/hls/Wish.Upon.2017.UNRATED.BDRip.x264-DRONES.mp4/master.m3u8"
+      },
+      {
+        "title": "I Can Only Imagine",
+        "path": "images/action/icanonlyimagine.jpg",
+        "id": 21,
+        "cat": 2,
+        "locator":"http://cdnvod.setv.ca/hls/Wish.Upon.2017.UNRATED.BDRip.x264-DRONES.mp4/master.m3u8"
+      },
+      {
+        "title": "Red Sparrow",
+        "path": "images/action/redsparrow.jpg",
+        "id": 22,
+        "cat": 2,
+        "locator":"http://cdnvod.setv.ca/hls/Wish.Upon.2017.UNRATED.BDRip.x264-DRONES.mp4/master.m3u8"
+      },
+      {
+        "title": "Slad",
+        "path": "images/action/slad.jpg",
+        "id": 23,
+        "cat": 2,
+        "locator":"http://cdnvod.setv.ca/hls/Wish.Upon.2017.UNRATED.BDRip.x264-DRONES.mp4/master.m3u8"
+      },
+      {
+        "title": "Z Nation",
+        "path": "images/action/znation.jpg",
+        "id": 24,
+        "cat": 2,
+        "locator":"http://cdnvod.setv.ca/hls/Wish.Upon.2017.UNRATED.BDRip.x264-DRONES.mp4/master.m3u8"
+      }
+     ]
+  },
+  {
+    "id": 3,
+    "label": "Sci-Fi / Adventures Movies",
+    "data": [
+      {
+        "title":"Avengers",
+        "path":"images/scifi/avengers.jpg",
+        "id":25,
+        "cat":3
+        },
+      {
+        "title":"Black Panther",
+        "path":"images/scifi/blackpanther.jpg",
+        "id":26,
+        "cat":3
+        },
+      {
+        "title":"Earth To Echo",
+        "path":"images/scifi/earthtoecho.jpg",
+        "id":27,
+        "cat":3
+        },
+      {
+        "title":"Gravity",
+        "path":"images/scifi/gravity.jpg",
+        "id":28,
+        "cat":3
+        },
+      {
+        "title":"Interstellar",
+        "path":"images/scifi/interstellar.jpg",
+        "id":29,
+        "cat":3
+      },
+      {
+        "title":"Jurassic Park",
+        "path":"images/scifi/jurassicpark.jpg",
+        "id":30,
+        "cat":3
+      },
+      {
+        "title":"Origin Unknown",
+        "path":"images/scifi/originunknown.jpg",
+        "id":31,
+        "cat":3
+        },
+      {
+        "title":"Pacific Rim",
+        "path":"images/scifi/pacificrim.jpg",
+        "id":32,
+        "cat":3
+      },
+      {
+        "title":"Prometheus",
+        "path":"images/scifi/prometheus.jpg",
+        "id":33,
+        "cat":3
+      },
+      {
+        "title":"Star Wars",
+        "path":"images/scifi/starwars.jpg",
+        "id":34,
+        "cat":3
+      },
+      {
+        "title":"The Belle",
+        "path":"images/scifi/thebelle.jpg",
+        "id":35,
+        "cat":3
+      },
+      {
+        "title":"Transformers",
+        "path":"images/scifi/transformers.jpg",
+        "id":36,
+        "cat":3
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "label": "Comedy Movies",
+    "data": [
+      {
+        "title":"22 Jump Street",
+        "path":"images/comedy/22jumpstreet.jpg",
+        "id":37,
+        "cat":4
+        },
+      {
+        "title":"Damaged Goods",
+        "path":"images/comedy/damagedgoods.jpg",
+        "id":38,
+        "cat":4
+        },
+      {
+        "title":"Get Hard",
+        "path":"images/comedy/gethard.jpg",
+        "id":39,
+        "cat":4
+       },
+      {
+        "title":"Johnny English",
+        "path":"images/comedy/johnnyenglish.jpg",
+        "id":40,
+        "cat":4
+        },
+      {
+        "title":"Knives Out",
+        "path":"images/comedy/knivesout.jpg",
+        "id":41,
+        "cat":4
+        },
+      {
+        "title":"Love Recipe",
+        "path":"images/comedy/loverecipe.jpg",
+        "id":42,
+        "cat":4
+        },
+      {
+        "title":"Pirate of The Lost Sea",
+        "path":"images/comedy/pirateofthelostsea.jpg",
+        "id":43,
+        "cat":4
+        },
+      {
+        "title":"Super Bad",
+        "path":"images/comedy/superbad.jpg",
+        "id":44,
+        "cat":4
+      },
+      {
+        "title":"The Perfect Date",
+        "path":"images/comedy/theperfectdate.jpg",
+        "id":45,
+        "cat":4
+      },
+      {
+        "title":"Bad Moms",
+        "path":"images/comedy/badmoms.jpg",
+        "id":46,
+        "cat":4
+      },
+      {
+        "title":"Hot Fuzz",
+        "path":"images/comedy/hotfuzz.jpg",
+        "id":47,
+        "cat":4
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "label": "Thriller Movies",
+    "data": [
+      {
+        "title":"Anomaly",
+        "path":"images/thriller/anomaly.jpg",
+        "id":48,
+        "cat":5
+       },
+      {
+        "title":"Den Skylidge",
+        "path":"images/thriller/denskyldige.jpg",
+        "id":49,
+        "cat":5
+        },
+      {
+        "title":"Gateway",
+        "path":"images/thriller/gateway.jpg",
+        "id":50,
+        "cat":5
+        },
+      {
+        "title":"House At The End of The Street",
+        "path":"images/thriller/house-street.jpg",
+        "id":51,
+        "cat":5
+        },
+      {
+        "title":"John Wick 2",
+        "path":"images/thriller/johnwick2.jpg",
+        "id":52,
+        "cat":5
+        },
+      {
+        "title":"Offender",
+        "path":"images/thriller/offender.jpg",
+        "id":53,
+        "cat":5
+        },
+      {
+        "title":"Shutter Island",
+        "path":"images/thriller/shutterisland.jpg",
+        "id":54,
+        "cat":5
+        },
+      {
+        "title":"Sicario",
+        "path":"images/thriller/sicario.jpg",
+        "id":55,
+        "cat":5
+      },
+      {
+        "title":"Supermacy",
+        "path":"images/thriller/supermacy.jpg",
+        "id":56,
+        "cat":5
+      },
+      {
+        "title":"Taken 3",
+        "path":"images/thriller/taken3.jpg",
+        "id":57,
+        "cat":5
+      },
+      {
+        "title":"The Bone Collector",
+        "path":"images/thriller/thebonecollector.jpg",
+        "id":58,
+        "cat":5
+      },
+      {
+        "title":"The Commuter",
+        "path":"images/thriller/thecommuter.jpg",
+        "id":59,
+        "cat":5
+      },
+      {
+        "title":"Widows",
+        "path":"images/thriller/widows.jpg",
+        "id":60,
+        "cat":5
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "label": "Horror Movies",
+    "data": [
+      {
+        "title":"A Quite Place",
+        "path":"images/horror/aquiteplace.jpg",
+        "id":61,
+        "cat":6
+        },
+      {
+        "title":"Backtrack",
+        "path":"images/horror/backtrack.jpg",
+        "id":62,
+        "cat":6
+        },
+      {
+        "title":"Dead Story",
+        "path":"images/horror/dead-story.jpg",
+        "id":63,
+        "cat":6
+       },
+      {
+        "title":"Harbinger Down",
+        "path":"images/horror/harbinger.jpg",
+        "id":64,
+        "cat":6
+       },
+      {
+        "title":"It Follows",
+        "path":"images/horror/itfollows.jpg",
+        "id":65,
+        "cat":6
+        },
+      {
+        "title":"The Bye Bye Man",
+        "path":"images/horror/thebyebyeman.jpg",
+        "id":66,
+        "cat":6
+        },
+      {
+        "title":"The Nun 2",
+        "path":"images/horror/thenun2.jpg",
+        "id":67,
+        "cat":6
+        },
+      {
+        "title":"The Witch",
+        "path":"images/horror/thewitch.jpg",
+        "id":68,
+        "cat":6
+      },
+      {
+        "title":"The Witches",
+        "path":"images/horror/thewitches.jpg",
+        "id":69,
+        "cat":6
+      },
+      {
+        "title":"The Woods",
+        "path":"images/horror/thewoods.jpg",
+        "id":70,
+        "cat":6
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "label": "Drama Movies",
+    "data": [
+      {
+        "title":"Another Day",
+        "path":"images/drama/anotherday.jpg",
+        "id":71,
+        "cat":7
+        },
+      {
+        "title":"A Walk With Grace",
+        "path":"images/drama/awalkwithgrace.jpg",
+        "id":72,
+        "cat":7
+        },
+      {
+        "title":"Break Through",
+        "path":"images/drama/breakthrough.jpg",
+        "id":73,
+        "cat":7
+        },
+      {
+        "title":"Colonia",
+        "path":"images/drama/colonia.jpg",
+        "id":74,
+        "cat":7
+        },
+      {
+        "title":"Dreamer",
+        "path":"images/drama/dreamer.jpg",
+        "id":75,
+        "cat":7
+        },
+      {
+        "title":"Harriet",
+        "path":"images/drama/harriet.jpg",
+        "id":76,
+        "cat":7
+        },
+      {
+        "title":"Life Is Beautiful",
+        "path":"images/drama/lifeisbeautiful.jpg",
+        "id":77,
+        "cat":7
+        },
+      {
+        "title":"Overcomer",
+        "path":"images/drama/overcomer.jpg",
+        "id":78,
+        "cat":7
+      },
+      {
+        "title":"Passchendaele",
+        "path":"images/drama/passchendaele.jpg",
+        "id":79,
+        "cat":7
+      },
+      {
+        "title":"Shaft",
+        "path":"images/drama/Shaft.jpg",
+        "id":80,
+        "cat":7
+      },
+      {
+        "title":"The Current War",
+        "path":"images/drama/thecurrentwar.jpg",
+        "id":81,
+        "cat":7
+      },
+      {
+        "title":"The Shaw Shank",
+        "path":"images/drama/theshawshank.jpg",
+        "id":82,
+        "cat":7
+      },
+      {
+        "title":"The World We Make",
+        "path":"images/drama/theworldwemake.jpg",
+        "id":83,
+        "cat":7
+      }
+    ]
+  }
+]
